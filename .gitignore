@@ -1,0 +1,8 @@
+/logs
+/temp_uploads
+*.log
+*.tmp
+/generated_docs
+__pycache__/
+*.pyc
+*.pyo
